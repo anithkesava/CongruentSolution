@@ -160,7 +160,7 @@ namespace tryPassEncoding
 {
     public class Program
     {
-        public static void Main()
+        public static void DontMain()
         {
             /*
             string password = "Anith@123";
